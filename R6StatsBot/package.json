@@ -1,0 +1,12 @@
+{
+  "name": "r6-stats-bot",
+  "version": "0.0.0",
+  "description": "R6StatsBot",
+  "main": "app.js",
+  "author": {
+    "name": "루스키"
+  },
+  "dependencies": {
+    "r6stats": "0.0.3"
+  }
+}
