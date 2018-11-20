@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordServerManager", "DiscordServerManager\DiscordServerManager.csproj", "{1DCB424C-924B-4EC8-9CE2-E5ACDF5A9E28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleBot", "DiscordServerManager\SampleBot.csproj", "{1DCB424C-924B-4EC8-9CE2-E5ACDF5A9E28}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E8F9D41-6982-46FE-9369-DEE3E191AEC1}"
 	ProjectSection(SolutionItems) = preProject
